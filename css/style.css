@@ -177,7 +177,6 @@
 	#header
 	{
 		position: relative;
-		background: #000000 url('images/overlay.png');
 		color: #fff;
 		cursor: default;
 	}
